@@ -8,7 +8,7 @@
 ![Release Date](https://img.shields.io/github/release-date/codeabinash/localdb.js?color=limegreen)
 ![Tag](https://img.shields.io/github/tag/codeabinash/color-picker?color=limegreen)
 
-![Color Picker](https://codeabinash.github.io/color-picker/images/logo.jpg)
+![Color Picker](https://codeabinash.github.io/color-picker/images/logo-l.jpg)
 
 ![S2](https://codeabinash.github.io/color-picker/images/s2.png)
 ![S1](https://codeabinash.github.io/color-picker/images/s1.png)
