@@ -14,15 +14,15 @@
 ![S1](https://codeabinash.github.io/color-picker/images/s1.png)
 
 ## Download
-Download Zip
+### [Download Zip](https://github.com/codeAbinash/color-picker/releases/download/v1.0.0/src.zip)
 
 ## How to install
-- Extract the downloaded zip file in a directory
+- Extract the [download](https://github.com/codeAbinash/color-picker/releases/download/v1.0.0/src.zip)ed zip file in a directory
 - Open your chromium browser
 - Go to manage extensions settings
 - Turn on developer mode
 - Then select `load unpacked extension` from your browser
-- Select `src` directory from the directory where you extracted the downloaded file
+- Select `src` directory from the directory where you extracted the [download](https://github.com/codeAbinash/color-picker/releases/download/v1.0.0/src.zip)ed file
 - Done 😊
 
 > Do not delete the directory where you extracted files, otherwise the extension will be removed from your browser
