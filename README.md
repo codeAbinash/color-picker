@@ -1,4 +1,4 @@
-# Color Picker Browser Extension
+# Color Picker Browser(chromium) Extension
 <!-- ![File Size](https://img.shields.io/github/size/codeAbinash/color-picker/src/index.html) -->
 <!-- ![Languages](https://img.shields.io/github/languages/top/codeabinash/localdb.js?color=yellow) -->
 <!-- ![Downloads](https://img.shields.io/github/downloads/codeabinash/localdb.js/total?color=limegreen) -->
@@ -12,3 +12,17 @@
 
 ![S2](https://codeabinash.github.io/color-picker/images/s2.png)
 ![S1](https://codeabinash.github.io/color-picker/images/s1.png)
+
+## Download
+Download Zip
+
+## How to install
+- Extract the downloaded zip file in a directory
+- Open your chromium browser
+- Go to manage extensions settings
+- Turn on developer mode
+- Then select `load unpacked extension` from your browser
+- Select `src` directory from the directory where you extracted the downloaded file
+- Done 😊
+
+> Do not delete the directory where you extracted files, otherwise the extension will be removed from your browser
