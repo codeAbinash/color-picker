@@ -9,15 +9,21 @@
 
 body {
     border-radius: 10px;
-    min-width: 180px;
-    padding: 10px 15px 15px 15px;
+    min-width: 200px;
+    min-height: 200px;
+    // padding: 10px 15px 15px 15px;
+    padding: 20px 80px 75px 80px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 0.7em;
+    gap: 1em;
     color: var(--text-color);
     background-color: var(--bg-color);
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom left;
 }
 
 .heading {
@@ -58,6 +64,8 @@ body {
         gap: 1em;
         margin-top: 1em;
         background-color: var(--bg-color-2);
+        background-color: #00000022;
+        backdrop-filter: blur(10px);
         padding: 10px;
         border-radius: 10px;
 
@@ -106,9 +114,23 @@ body {
 
 
 span.madeBY {
-    color: gray;
+    // color: gray;
+    color: black;
     font-size: 0.8em;
     font-weight: 500;
+}
+
+.end {
+    background-color: #00000044;
+    backdrop-filter: blur(10px);
+
+    span {
+        color: white;
+    }
+
+    border-radius: 100vmax;
+    padding:0.5em 1em;
+    margin-top: 2em;
 }
 
 @media (prefers-color-scheme: dark) {
