@@ -5,7 +5,7 @@
 <!-- ![Watch](https://img.shields.io/github/stars/codeabinash/localdb.js?label=Watch&color=blue)
 ![Stars](https://img.shields.io/github/stars/codeabinash/localdb.js) -->
 
-![Release Date](https://img.shields.io/github/release-date/codeabinash/localdb.js?color=limegreen)
+![Release Date](https://img.shields.io/github/release-date/codeabinash/color-picker?color=limegreen)
 ![Tag](https://img.shields.io/github/tag/codeabinash/color-picker?color=limegreen)
 
 ![Color Picker](https://codeabinash.github.io/color-picker/images/logo-l.jpg)
